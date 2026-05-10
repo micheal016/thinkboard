@@ -1,5 +1,5 @@
 {
-  "name": "realtime-collaborative-whiteboard",
+  "name": "thinkboard",
   "version": "1.0.0",
   "description": "A real-time collaborative whiteboard demonstrating distributed systems concepts: WebSockets, CRDTs, presence systems, horizontal scaling, and event streaming.",
   "main": "server/index.js",
